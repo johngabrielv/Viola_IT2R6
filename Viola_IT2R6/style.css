@@ -1,0 +1,49 @@
+header {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,56,9,1) 35%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    height: 80px;
+    padding: 20px;
+    border: ridge 10px;
+    border-color: #fc4646;
+}
+
+header h1 {
+    color: chartreuse;
+}
+nav {
+    background-color: rgb(8, 67, 194);
+    height: 50px;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 8px;
+    
+}
+ul {
+    text-align: center;
+    color: chartreuse;
+    ;
+    padding: 12px;
+}
+content p {
+    background-color: blueviolet;
+    height: 650px;
+    color:  white;
+    border: solid 5px;
+    border-color: black;
+}
+footer {
+    background-color: aqua;
+    height: 60px;
+    padding: 10px
+    
+}
+footer p { 
+    font-size: larger;
+    text-align: center;
+    
+    
+}
+
